@@ -1,0 +1,232 @@
+*{
+    background-color: white;
+}
+
+div h1{
+    font-weight: 400;
+    margin-bottom: 1px;
+    padding-left: 20px;
+    margin-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.emailtext{
+    color: black;
+    font-size: 13px;
+    margin-top: 1px;
+    margin-bottom: 3px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.sign_in{
+    border-style: solid;
+    border-color: #e3e3e3;
+    border-width: .1px;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+    margin-top: 110px;
+    height: 260px;
+    
+    
+}
+
+.emailbox{
+    width: 350px;
+    height: 25px;
+    border-width: 1px;
+    border-color: #b4b4b4;
+    font-size: 13px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    margin-left: 20px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.emailbox:focus {
+    outline-color: #b09144 ;
+    box-shadow: black;
+    border-width: 0px;
+    
+}
+
+.passwordtext{
+    color: black;
+    font-size: 14px;
+    font-weight: 11%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    padding-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.forgotpw{
+    color:blue;
+    text-decoration: none;
+    font-size: 13px;
+    margin-bottom: 3px;
+    padding-left: 10px;
+    margin-left: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pw1{
+    display: inline-block;
+}
+
+.passwordbox{
+    width: 350px;
+    height: 25px;
+    border-width: 1px;
+    border-color: #b4b4b4;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    margin-left: 20px;
+    font-size: 13px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.passwordbox:focus{
+    outline-color: #b09144 ;
+    box-shadow: black;
+    border-width: 0px;
+}
+
+.submit{
+    width: 355px;
+    height: 30px;
+    border-width: .1px;
+    border-color: black;
+    background-color: yellow;
+    font-weight: 549;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submit:hover{
+    background-color:#f7c548;
+    cursor:pointer;
+}
+
+.needhelp{
+    color:blue;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.new2amazon{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10;
+    background-color: #e7e9ec;
+    text-align: center;
+    margin-top: 20px;
+    color: #767676;
+}
+
+
+
+.create{
+    width: 402px;
+    height: 30px;
+    border-width: 1px;
+    border-color: #b2b4b9;
+    background-color: #f7c548;
+    font-weight: 549;
+    margin-bottom: 70px;
+    background-color: #e7e9ec;
+    margin-top: -8px;
+    border-radius: 2.5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.create:hover{
+    cursor: pointer;
+}
+
+.help{
+  display: inline;
+  text-align: center;
+  text-decoration:none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.hel{
+    text-align: center;
+    margin-right:  70px;
+}
+
+.li1{
+    display: block;
+    display: inline-block;
+    width: 105px;
+    color:#1170c4 ;
+    padding: 0px;
+    }
+
+.li1:hover{
+        text-decoration: underline;
+}
+.li2{
+    display: block;
+    display: inline-block;
+    width: 103px;
+    color:#1170c4 ;
+}
+
+.li2:hover{
+    text-decoration: underline;
+    color: orange;
+}
+
+.li3{
+    display: block;
+    display: inline-block;
+    width: 10px;
+    color:#1170c4 ;
+}
+
+.li3:hover{
+    text-decoration: underline;
+}
+
+.copyright{
+    text-align: center;
+    display: block;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+
+.newamazon{
+    text-align: center;
+}
+
+#idnew2amazon{
+    display: inline-flex;
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+.hr1{
+    width: 130px;
+    margin-left: 1px;
+    
+}
+
+.hr2{
+    width: 130px;
+    margin-left: 1px;
+    
+}
